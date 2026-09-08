@@ -1,0 +1,106 @@
+title,year,subgenre,runtime,intensity,gore,suspense
+Psycho,1960,Psychological,109,6,3,9
+The Exorcist,1973,Supernatural,122,8,6,9
+Halloween,1978,Slasher,91,7,5,8
+The Shining,1980,Psychological,146,7,4,9
+Friday the 13th,1980,Slasher,95,7,7,6
+An American Werewolf in London,1981,Monster,97,6,7,5
+Poltergeist,1982,Supernatural,114,6,4,7
+The Thing,1982,Body Horror,109,8,9,8
+A Nightmare on Elm Street,1984,Slasher,91,7,6,7
+Hellraiser,1987,Body Horror,94,8,8,6
+The Fly,1986,Body Horror,96,8,8,6
+Evil Dead II,1987,Supernatural,84,7,8,5
+Child's Play,1988,Slasher,87,6,5,6
+Pet Sematary,1989,Supernatural,103,6,5,7
+Misery,1990,Psychological,107,6,4,9
+The Silence of the Lambs,1991,Psychological,118,7,4,9
+Candyman,1992,Supernatural,99,6,5,8
+Scream,1996,Slasher,111,6,5,7
+The Blair Witch Project,1999,Found Footage,81,5,1,8
+The Sixth Sense,1999,Psychological,107,4,1,8
+Sleepy Hollow,1999,Gothic,105,6,6,6
+Final Destination,2000,Slasher,98,6,7,6
+The Others,2001,Gothic,101,4,1,8
+28 Days Later,2002,Zombie,113,7,6,8
+The Ring,2002,Supernatural,115,6,3,8
+Jeepers Creepers,2001,Monster,91,6,5,6
+House of 1000 Corpses,2003,Slasher,89,8,8,5
+Saw,2004,Psychological,103,7,7,7
+Dawn of the Dead,2004,Zombie,101,7,7,6
+Shaun of the Dead,2004,Zombie,99,5,5,4
+The Descent,2005,Monster,99,7,7,8
+Hostel,2005,Psychological,94,8,8,5
+The Hills Have Eyes,2006,Slasher,107,7,7,5
+Pan's Labyrinth,2006,Gothic,118,6,4,7
+REC,2007,Found Footage,78,7,6,8
+Paranormal Activity,2007,Found Footage,86,5,1,8
+The Orphanage,2007,Gothic,105,5,2,8
+Let the Right One In,2008,Supernatural,114,5,4,7
+Drag Me to Hell,2009,Supernatural,99,6,4,7
+The House of the Devil,2009,Supernatural,95,5,3,8
+Insidious,2010,Supernatural,103,6,2,8
+The Cabin in the Woods,2012,Slasher,95,6,6,6
+Sinister,2012,Supernatural,110,7,4,8
+The Conjuring,2013,Supernatural,112,6,2,9
+You're Next,2011,Slasher,94,7,7,6
+The Babadook,2014,Psychological,94,6,2,9
+It Follows,2014,Supernatural,100,5,2,8
+Oculus,2013,Supernatural,104,5,3,8
+As Above So Below,2014,Found Footage,93,6,4,7
+The Witch,2015,Folk Horror,92,6,3,9
+Green Room,2015,Slasher,95,7,7,7
+Lights Out,2016,Supernatural,81,5,2,7
+Don't Breathe,2016,Psychological,88,7,4,8
+Get Out,2017,Psychological,104,6,3,8
+It,2017,Supernatural,135,6,4,7
+Hereditary,2018,Psychological,127,7,5,9
+A Quiet Place,2018,Monster,90,6,3,9
+Suspiria 2018,2018,Gothic,152,7,7,8
+Us,2019,Psychological,116,6,4,8
+Midsommar,2019,Folk Horror,148,6,5,7
+The Lighthouse,2019,Psychological,109,6,3,8
+Ready or Not,2019,Slasher,95,6,6,6
+The Invisible Man,2020,Psychological,124,6,3,8
+His House,2020,Supernatural,93,5,2,8
+The Conjuring 3,2021,Supernatural,112,6,4,8
+A Quiet Place Part II,2021,Monster,97,6,3,9
+Malignant,2021,Body Horror,111,7,7,6
+Titane,2021,Body Horror,108,8,7,6
+X,2022,Slasher,105,7,7,6
+Barbarian,2022,Psychological,102,7,6,8
+Smile,2022,Psychological,115,6,4,8
+Pearl,2022,Psychological,103,7,6,6
+Nope,2022,Monster,130,5,3,8
+Talk to Me,2023,Supernatural,95,6,5,8
+Skinamarink,2022,Psychological,100,4,1,8
+Evil Dead Rise,2023,Supernatural,96,8,9,6
+Cocaine Bear,2023,Monster,95,5,5,4
+M3GAN,2022,Slasher,102,5,4,6
+The Menu,2022,Psychological,107,5,3,7
+Longlegs,2024,Psychological,101,6,4,9
+Late Night with the Devil,2024,Supernatural,93,5,4,8
+Immaculate,2024,Body Horror,89,6,6,7
+The First Omen,2024,Supernatural,119,6,5,8
+In a Violent Nature,2024,Slasher,94,7,8,5
+Abigail,2024,Monster,109,6,7,5
+Alien,1979,Cosmic Horror,117,7,5,9
+Aliens,1986,Monster,137,7,6,7
+The Fog,1980,Supernatural,89,5,3,7
+Christine,1983,Supernatural,110,5,4,6
+Fright Night,1985,Monster,106,5,4,6
+Night of the Living Dead,1968,Zombie,96,6,5,7
+Rosemary's Baby,1968,Psychological,136,4,1,9
+The Wicker Man,1973,Folk Horror,88,4,1,8
+Carrie,1976,Psychological,98,6,4,7
+Suspiria 1977,1977,Gothic,99,6,6,7
+Phantasm,1979,Supernatural,89,6,5,6
+The Evil Dead,1981,Supernatural,85,7,7,6
+Re-Animator,1985,Body Horror,86,7,9,4
+Society,1989,Body Horror,99,7,8,6
+In the Mouth of Madness,1994,Cosmic Horror,95,6,5,8
+Trick 'r Treat,2007,Folk Horror,82,5,5,6
+The Autopsy of Jane Doe,2016,Supernatural,86,6,5,8
+Gerald's Game,2017,Psychological,103,5,3,8
+The Wailing,2016,Supernatural,156,6,5,9
+Train to Busan,2016,Zombie,118,7,6,8

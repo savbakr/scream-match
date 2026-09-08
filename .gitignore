@@ -1,0 +1,5 @@
+cmake-build-*/
+*.o
+data/ratings.csv
+data/watchlist.txt
+.DS_Store
